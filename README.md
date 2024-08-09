@@ -13,7 +13,7 @@ You can choose different options from the game interface.
 
 If you don't know how to play Scrabble, click [here](https://scrabble.hasbro.com/en-us/rules) for rules
 
-Clone the game and enjoy it. If you have any feedbacks, I will very much appreciate.
+Clone the game and enjoy it. If you have any feedback, I would very much appreciate it.
 
 ## How to Play
 
