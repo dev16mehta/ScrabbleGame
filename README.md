@@ -7,7 +7,7 @@ A complete scrabble game written in Python3 with the following features:
 * point limit
 * multiplayer on a single computer
 * multiplayer over LAN
-* playing against computer
+* playing against the computer
 
 You can choose different options from the game interface.
 
