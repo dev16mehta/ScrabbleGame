@@ -29,7 +29,7 @@ On the terminal, `cd` into _py_scrabble_gui_ folder and run `python3 py_scrabble
 
 ### Blank tile
 
-Simply place a blank tile on the spot of the letter you want to replace it with. When you submit your word, a popup will ask you what letter it should be replaced with.
+Simply place a blank tile on the spot of the letter you want to replace it with. When you submit your word, a pop-up will ask you what letter it should be replaced with.
 
 ### Challenge mode
 
