@@ -1,6 +1,6 @@
 # ScrabbleGame
 
-A complete scrabble game written in Python3 with the following features:
+A complete scrabble game is written in Python3 with the following features:
 
 * challenge mode
 * time limit
@@ -9,7 +9,7 @@ A complete scrabble game written in Python3 with the following features:
 * multiplayer over LAN
 * playing against the computer
 
-You can choose different options from the game interface.
+You can choose from different options in the game interface.
 
 If you don't know how to play Scrabble, click [here](https://scrabble.hasbro.com/en-us/rules) for rules
 
