@@ -51,7 +51,7 @@ class AIOpponent(Player):
           if 'S' in word.word:
             word.wild_letters.append(word.range[word.word.index('S')])
 
-        # Pick the word with more points
+        # Pick word with more points
         if word.calculate_total_points() > self.word.calculate_total_points():
           self.word = word
 
