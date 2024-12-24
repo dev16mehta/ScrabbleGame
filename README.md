@@ -35,8 +35,3 @@ Simply place a blank tile on the spot of the letter you want to replace it with.
 
 The challenge mode is according to the double challenge rule. When activated, a player can challenge the words that the player before him or her has placed on the board. If one of the words is not valid, the previous player's turn will be passed and word points will be subtracted. If the words are valid, the turn of the player who has challenged will be passed.
 
-### Playing against computer
-
-Computer goes through permutations of letters on its rack and picks the valid move with the most points. A turn for computer takes about 1 minute 20 seconds (on i5 1.6 GHz with 8 GB RAM) depending on the computer.
-
-If you want to end the game while it is computer's turn and try to close the program, you will have to wait till the computer's permutations are over, which takes about 1 minute (on i5 1.6 GHz with 8 GB RAM).
